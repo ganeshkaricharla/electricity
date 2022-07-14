@@ -1,0 +1,57 @@
+.page_bill {
+  margin: 10px 40px;
+}
+
+.page_bill_area {
+  margin: 20px 0px;
+  border: 1px solid #888888;
+  box-shadow: 2px 2px 2px #888888;
+}
+
+.page_bill_legend {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 20px;
+  border-bottom: 2px solid black;
+}
+
+.page_bill_icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 20px;
+}
+.page_bill_icons i {
+  font-size: 20px;
+  margin: 0px 10px;
+}
+
+.fa-pen {
+  color: #008cff;
+}
+
+.fa-trash {
+  color: #ff0000;
+}
+
+.page_bill_details {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 20px;
+  font-size: 150%;
+}
+
+.page_bill_row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px 0px;
+  border-bottom: 1px solid #888888;
+}
+
+.page_bill_label {
+  width: 200px;
+}

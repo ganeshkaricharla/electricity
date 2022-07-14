@@ -1,0 +1,59 @@
+.page_add {
+  margin: 10px 40px;
+}
+
+.page_add_area {
+  margin: 20px 0px;
+  border: 1px solid #888888;
+  box-shadow: 2px 2px 2px #888888;
+}
+
+.page_add_legend {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 20px;
+  border-bottom: 2px solid black;
+}
+
+.page_add_details {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 20px;
+  font-size: 150%;
+}
+
+.page_add_row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px 0px;
+  border-bottom: 1px solid #888888;
+}
+
+.fa-floppy-disk {
+  font-size: 2em;
+  color: #006200;
+}
+.page_add_label {
+  width: 200px;
+}
+
+.page_add_row input {
+  margin: 10px 20px;
+  font-size: 150%;
+  width: 500px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+
+.page_add_row select {
+  margin: 10px 20px;
+  font-size: 150%;
+  width: 500px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
